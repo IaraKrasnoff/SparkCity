@@ -1,0 +1,9 @@
+zone_id,zone_name,zone_type,lat_min,lat_max,lon_min,lon_max,population
+ZONE_001,Downtown,commercial,40.72,40.74,-74.01,-73.99,25000
+ZONE_002,Financial District,commercial,40.7,40.72,-74.02,-74.0,15000
+ZONE_003,Residential North,residential,40.76,40.8,-74.0,-73.98,45000
+ZONE_004,Residential South,residential,40.7,40.72,-73.98,-73.96,38000
+ZONE_005,Industrial Park,industrial,40.74,40.76,-74.02,-74.0,5000
+ZONE_006,Tech Campus,commercial,40.76,40.78,-73.98,-73.96,12000
+ZONE_007,University Area,mixed,40.72,40.74,-73.96,-73.94,22000
+ZONE_008,Shopping District,retail,40.74,40.76,-73.96,-73.94,8000
